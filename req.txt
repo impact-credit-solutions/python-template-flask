@@ -1,0 +1,8 @@
+djangorestframework
+markdown       # Markdown support for the browsable API.
+django-filter  # Filtering support
+nanoid
+drf-spectacular
+django-rest-knox # Knox
+seaborn[stats]
+pymemcache
